@@ -55,11 +55,11 @@ global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "Udavin Wijesundara"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['761192103'] //ur owner tag
-global.ownernummenu = ['761192103'] //ur owner number in menu and all
-global.watermark = "White King WhatsApp Bot." //ur watermark
-global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
-global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
+global.ownertag = ['705387551'] //ur owner tag
+global.ownernummenu = ['705387551'] //ur owner number in menu and all
+global.watermark = "DJPRIYANGATECH." //ur watermark
+global.botscript = "https://youtube.com/channel/UCn0BtDyH_PgXzBmE-NQCgHw"
+global.linkz1 = "https://chat.whatsapp.com/K3i88ieKMB8LDarypctrSM"
 global.linkz2 = "https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1"
 
 //Bot theme media
